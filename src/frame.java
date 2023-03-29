@@ -12,7 +12,8 @@ public class frame {
         this.reps = reps;
         this.rustTijd = rustTijd;
         this.gewicht = gewicht;
-
+ 
+        
     }
     public String getNaam(){
         return this.naam;
