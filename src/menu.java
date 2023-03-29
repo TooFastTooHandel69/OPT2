@@ -4,6 +4,7 @@ public class menu {
 
         for (String s : list) {
             System.out.println(s);
+            
         }
     }
 }
