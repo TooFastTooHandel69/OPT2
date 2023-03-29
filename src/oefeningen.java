@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+
 public class oefeningen {
     private static ArrayList<frame> alleOefeningen;
     private String naam;
