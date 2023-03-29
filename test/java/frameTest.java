@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class frameTest {
 
+    
     @Test
     @DisplayName("Laat zien dat de variable's goed opgeslagen worden")
     void getNaam() {
