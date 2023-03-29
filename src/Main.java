@@ -16,6 +16,7 @@ public class Main {
         }
         else {
             System.out.println("type 1 of 2 probeer opnieuw.");
+            
         }
 
     }
