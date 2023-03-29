@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
 public class schema extends menu{
     public void lijst() {
         Scanner scanner = new Scanner(System.in);
