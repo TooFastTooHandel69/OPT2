@@ -13,6 +13,7 @@ public class spiergroep extends menu{
 
         for (String s : list) {
             System.out.println(s);
+            
         }
 
         int num = scanner.nextInt();
